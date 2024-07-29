@@ -1,0 +1,19 @@
+#EXTM3U @sertxudev https://github.com/sertxudev/TDT-M3U8
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="À Punt",À Punt
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-id="8M.TV" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="La 8 Mediterráneo",La 8 Mediterráneo
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Informativos" tvg-name="Euronews",Euronews
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
