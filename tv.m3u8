@@ -19,3 +19,9 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Informativos" tvg-name="Euronews",Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="Generalistas" tvg-name="La Sexta",La Sexta
+http://192.168.50.1:8000/?url=aHR0cHM6Ly93d3cuYXRyZXNwbGF5ZXIuY29tL2RpcmVjdG9zL2xhc2V4dGEv
+#EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox
+http://192.168.50.1:8000/?url=aHR0cHM6Ly93d3cuYXRyZXNwbGF5ZXIuY29tL2RpcmVjdG9zL25lb3gv
+#EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200" group-title="Generalistas" tvg-name="Atreseries",Atreseries
+http://192.168.50.1:8000/?url=aHR0cHM6Ly93d3cuYXRyZXNwbGF5ZXIuY29tL2RpcmVjdG9zL2F0cmVzZXJpZXMv
